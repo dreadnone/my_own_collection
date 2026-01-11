@@ -196,9 +196,10 @@ if __name__ == '__main__':
 <img width="1171" height="554" alt="Снимок экрана от 2026-01-11 22-16-51" src="https://github.com/user-attachments/assets/257d9840-9bae-428e-ac15-5cf3e4dcccb3" />
 
 **Шаг 17.** В ответ необходимо прислать ссылки на collection и tar.gz архив, а также скриншоты выполнения пунктов 4, 6, 15 и 16.
- [архив](##https://github.com/dreadnone/my_own_collection/blob/main/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)
+
+ [архив](https://github.com/dreadnone/my_own_collection/blob/main/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)
  
- [collection](##https://github.com/dreadnone/my_own_collection/tree/main)
+ [collection](https://github.com/dreadnone/my_own_collection/tree/main)
 
 ## Необязательная часть
 
