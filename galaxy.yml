@@ -1,0 +1,19 @@
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+  - Andrew
+description: My custom Ansible collection with file creation module
+license:
+  - GPL-3.0-or-later
+tags:
+  - file
+  - custom
+  - module
+repository: https://github.com/yourusername/my_own_collection
+documentation: https://github.com/yourusername/my_own_collection
+homepage: https://github.com/yourusername/my_own_collection
+issues: https://github.com/yourusername/my_own_collection/issues
+dependencies: {}
+build_ignore: []

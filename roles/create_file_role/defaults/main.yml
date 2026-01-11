@@ -1,0 +1,6 @@
+---
+file_path: /tmp/default_created_file.txt
+file_content: |
+  This file was created by create_file_role
+  Default content here
+  Timestamp: {{ ansible_date_time.date }} {{ ansible_date_time.time }}
