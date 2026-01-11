@@ -197,7 +197,9 @@ if __name__ == '__main__':
 
 **Шаг 17.** В ответ необходимо прислать ссылки на collection и tar.gz архив, а также скриншоты выполнения пунктов 4, 6, 15 и 16.
  [архив](##https://github.com/dreadnone/my_own_collection/blob/main/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz)
- [collection] (##https://github.com/dreadnone/my_own_collection/tree/main)
+ 
+ [collection](##https://github.com/dreadnone/my_own_collection/tree/main)
+
 ## Необязательная часть
 
 1. Реализуйте свой модуль для создания хостов в Yandex Cloud.
